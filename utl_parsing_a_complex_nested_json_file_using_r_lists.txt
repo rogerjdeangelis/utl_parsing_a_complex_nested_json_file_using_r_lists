@@ -1,0 +1,3922 @@
+List of 2960
+ $ :List of 13
+  ..$ id             : chr "1055bdac-0320-4ca4-b0a1-38624245501a"
+  ..$ index          : int 1
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.000"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 35
+  .. ..$ name: chr "Starting XI"
+  ..$ possession     : int 1
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ duration       : num 0
+  ..$ tactics        :List of 2
+  .. ..$ formation: int 433
+  .. ..$ lineup   :List of 11
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4637
+  .. .. .. .. ..$ name: chr "Ellie Roebuck"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 1
+  .. .. .. .. ..$ name: chr "Goalkeeper"
+  .. .. .. ..$ jersey_number: int 26
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4649
+  .. .. .. .. ..$ name: chr "Esme Beth Morgan"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 2
+  .. .. .. .. ..$ name: chr "Right Back"
+  .. .. .. ..$ jersey_number: int 14
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4648
+  .. .. .. .. ..$ name: chr "Abbie McManus"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 3
+  .. .. .. .. ..$ name: chr "Right Center Back"
+  .. .. .. ..$ jersey_number: int 23
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4655
+  .. .. .. .. ..$ name: chr "Jennifer Beattie"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 5
+  .. .. .. .. ..$ name: chr "Left Center Back"
+  .. .. .. ..$ jersey_number: int 5
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4651
+  .. .. .. .. ..$ name: chr "Demi Stokes"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 6
+  .. .. .. .. ..$ name: chr "Left Back"
+  .. .. .. ..$ jersey_number: int 3
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4644
+  .. .. .. .. ..$ name: chr "Jill Scott"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 13
+  .. .. .. .. ..$ name: chr "Right Center Midfield"
+  .. .. .. ..$ jersey_number: int 8
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4658
+  .. .. .. .. ..$ name: chr "Keira Walsh"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 14
+  .. .. .. .. ..$ name: chr "Center Midfield"
+  .. .. .. ..$ jersey_number: int 24
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4645
+  .. .. .. .. ..$ name: chr "Isobel Christiansen"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 15
+  .. .. .. .. ..$ name: chr "Left Center Midfield"
+  .. .. .. ..$ jersey_number: int 11
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4654
+  .. .. .. .. ..$ name: chr "Nikita Parris"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 17
+  .. .. .. .. ..$ name: chr "Right Wing"
+  .. .. .. ..$ jersey_number: int 17
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4635
+  .. .. .. .. ..$ name: chr "Julia Spetsmark"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 21
+  .. .. .. .. ..$ name: chr "Left Wing"
+  .. .. .. ..$ jersey_number: int 15
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4650
+  .. .. .. .. ..$ name: chr "Nadia Nadim"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 23
+  .. .. .. .. ..$ name: chr "Center Forward"
+  .. .. .. ..$ jersey_number: int 10
+ $ :List of 13
+  ..$ id             : chr "78e63f61-3bf1-4a9b-9c4f-27b43e5ed71e"
+  ..$ index          : int 2
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.000"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 35
+  .. ..$ name: chr "Starting XI"
+  ..$ possession     : int 1
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ duration       : num 0
+  ..$ tactics        :List of 2
+  .. ..$ formation: int 352
+  .. ..$ lineup   :List of 11
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4640
+  .. .. .. .. ..$ name: chr "Rut Hedvig Lindahl"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 1
+  .. .. .. .. ..$ name: chr "Goalkeeper"
+  .. .. .. ..$ jersey_number: int 1
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4642
+  .. .. .. .. ..$ name: chr "Millie Bright"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 3
+  .. .. .. .. ..$ name: chr "Right Center Back"
+  .. .. .. ..$ jersey_number: int 4
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4657
+  .. .. .. .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 4
+  .. .. .. .. ..$ name: chr "Center Back"
+  .. .. .. ..$ jersey_number: int 6
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4633
+  .. .. .. .. ..$ name: chr "Magdalena Ericsson"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 5
+  .. .. .. .. ..$ name: chr "Left Center Back"
+  .. .. .. ..$ jersey_number: int 16
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4656
+  .. .. .. .. ..$ name: chr "Hannah Jayne Blundell"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 12
+  .. .. .. .. ..$ name: chr "Right Midfield"
+  .. .. .. ..$ jersey_number: int 3
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4639
+  .. .. .. .. ..$ name: chr "Maren Mjelde"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 13
+  .. .. .. .. ..$ name: chr "Right Center Midfield"
+  .. .. .. ..$ jersey_number: int 18
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4647
+  .. .. .. .. ..$ name: chr "So-yun Ji"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 14
+  .. .. .. .. ..$ name: chr "Center Midfield"
+  .. .. .. ..$ jersey_number: int 10
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4638
+  .. .. .. .. ..$ name: chr "Drew Spence"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 15
+  .. .. .. .. ..$ name: chr "Left Center Midfield"
+  .. .. .. ..$ jersey_number: int 24
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4634
+  .. .. .. .. ..$ name: chr "Crystal Dunn"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 16
+  .. .. .. .. ..$ name: chr "Left Midfield"
+  .. .. .. ..$ jersey_number: int 19
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4641
+  .. .. .. .. ..$ name: chr "Francesca Kirby"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 22
+  .. .. .. .. ..$ name: chr "Right Center Forward"
+  .. .. .. ..$ jersey_number: int 14
+  .. .. ..$ :List of 3
+  .. .. .. ..$ player       :List of 2
+  .. .. .. .. ..$ id  : int 4659
+  .. .. .. .. ..$ name: chr "Ramona Bachmann"
+  .. .. .. ..$ position     :List of 2
+  .. .. .. .. ..$ id  : int 24
+  .. .. .. .. ..$ name: chr "Left Center Forward"
+  .. .. .. ..$ jersey_number: int 23
+ $ :List of 13
+  ..$ id             : chr "7fe92118-5965-4033-9b59-29b3947a3d8a"
+  ..$ index          : int 3
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.000"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 18
+  .. ..$ name: chr "Half Start"
+  ..$ possession     : int 1
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ duration       : num 7.96
+  ..$ related_events :List of 1
+  .. ..$ : chr "c007670e-f679-4f80-b901-b704130fee05"
+ $ :List of 13
+  ..$ id             : chr "c007670e-f679-4f80-b901-b704130fee05"
+  ..$ index          : int 4
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.000"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 18
+  .. ..$ name: chr "Half Start"
+  ..$ possession     : int 1
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ duration       : num 8.16
+  ..$ related_events :List of 1
+  .. ..$ : chr "7fe92118-5965-4033-9b59-29b3947a3d8a"
+ $ :List of 17
+  ..$ id             : chr "7925a1d3-fc1c-458a-9300-37fa25a2b137"
+  ..$ index          : int 5
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.100"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 61
+  .. ..$ : num 40
+  ..$ duration       : num 0
+  ..$ related_events :List of 1
+  .. ..$ : chr "dddef0cb-75ef-4e0e-8f45-e8b7dd9e2c7d"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4659
+  .. .. ..$ name: chr "Ramona Bachmann"
+  .. ..$ length      : num 3.61
+  .. ..$ angle       : num -0.983
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 63
+  .. .. ..$ : num 37
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 65
+  .. .. ..$ name: chr "Kick Off"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "dddef0cb-75ef-4e0e-8f45-e8b7dd9e2c7d"
+  ..$ index          : int 6
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.100"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4659
+  .. ..$ name: chr "Ramona Bachmann"
+  ..$ position       :List of 2
+  .. ..$ id  : int 24
+  .. ..$ name: chr "Left Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 63
+  .. ..$ : num 37
+  ..$ related_events :List of 1
+  .. ..$ : chr "7925a1d3-fc1c-458a-9300-37fa25a2b137"
+ $ :List of 16
+  ..$ id             : chr "c20fef07-3154-4f35-a8f0-97bbe86202db"
+  ..$ index          : int 7
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.340"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4658
+  .. ..$ name: chr "Keira Walsh"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 47
+  .. ..$ : num 41
+  ..$ duration       : num 0.373
+  ..$ related_events :List of 1
+  .. ..$ : chr "1debd682-d1f7-4c36-a7c8-35995857e97d"
+ $ :List of 18
+  ..$ id             : chr "1debd682-d1f7-4c36-a7c8-35995857e97d"
+  ..$ index          : int 8
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:00.500"
+  ..$ minute         : int 0
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4659
+  .. ..$ name: chr "Ramona Bachmann"
+  ..$ position       :List of 2
+  .. ..$ id  : int 24
+  .. ..$ name: chr "Left Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 69
+  .. ..$ : num 33
+  ..$ duration       : num 1.64
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "0adb5045-2a96-4465-9234-589c5a3fc524"
+  .. ..$ : chr "c20fef07-3154-4f35-a8f0-97bbe86202db"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4634
+  .. .. ..$ name: chr "Crystal Dunn"
+  .. ..$ length      : num 31.8
+  .. ..$ angle       : num -1.08
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 2
+  .. .. ..$ name: chr "Low Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 84
+  .. .. ..$ : num 5
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "0adb5045-2a96-4465-9234-589c5a3fc524"
+  ..$ index          : int 9
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:02.140"
+  ..$ minute         : int 0
+  ..$ second         : int 2
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 84
+  .. ..$ : num 5
+  ..$ related_events :List of 1
+  .. ..$ : chr "1debd682-d1f7-4c36-a7c8-35995857e97d"
+ $ :List of 15
+  ..$ id             : chr "2990ebba-fd33-4d49-bf8f-a991892170ea"
+  ..$ index          : int 10
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:02.700"
+  ..$ minute         : int 0
+  ..$ second         : int 2
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 35
+  .. ..$ : num 69
+  ..$ duration       : num 0.733
+ $ :List of 14
+  ..$ id             : chr "5714d523-2aa4-4639-962d-a1112fecff86"
+  ..$ index          : int 11
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:06.740"
+  ..$ minute         : int 0
+  ..$ second         : int 6
+  ..$ type           :List of 2
+  .. ..$ id  : int 38
+  .. ..$ name: chr "Miscontrol"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 108
+  .. ..$ : num 10
+ $ :List of 15
+  ..$ id             : chr "90ff2c09-4a2f-46ee-8efa-0fddcaaf477c"
+  ..$ index          : int 12
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:06.980"
+  ..$ minute         : int 0
+  ..$ second         : int 6
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 2
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "From Kick Off"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 11
+  .. ..$ : num 72
+  ..$ duration       : num 0.773
+ $ :List of 17
+  ..$ id             : chr "22377994-7f25-4215-900c-180199bda3c0"
+  ..$ index          : int 13
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:25.873"
+  ..$ minute         : int 0
+  ..$ second         : int 25
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4637
+  .. ..$ name: chr "Ellie Roebuck"
+  ..$ position       :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Goalkeeper"
+  ..$ location       :List of 2
+  .. ..$ : num 6
+  .. ..$ : num 43
+  ..$ duration       : num 2.59
+  ..$ related_events :List of 2
+  .. ..$ : chr "7f64ebd2-94fa-4d83-91dc-9b713c4d3fe2"
+  .. ..$ : chr "f45dba2f-12f4-4b49-8164-218d06b99d8f"
+  ..$ pass           :List of 8
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4654
+  .. .. ..$ name: chr "Nikita Parris"
+  .. ..$ length      : num 59
+  .. ..$ angle       : num 0.456
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 59
+  .. .. ..$ : num 69
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 63
+  .. .. ..$ name: chr "Goal Kick"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "f45dba2f-12f4-4b49-8164-218d06b99d8f"
+  ..$ index          : int 14
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:28.460"
+  ..$ minute         : int 0
+  ..$ second         : int 28
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 59
+  .. ..$ : num 71
+  ..$ related_events :List of 1
+  .. ..$ : chr "22377994-7f25-4215-900c-180199bda3c0"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 17
+  ..$ id             : chr "7f64ebd2-94fa-4d83-91dc-9b713c4d3fe2"
+  ..$ index          : int 15
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:28.460"
+  ..$ minute         : int 0
+  ..$ second         : int 28
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4633
+  .. ..$ name: chr "Magdalena Ericsson"
+  ..$ position       :List of 2
+  .. ..$ id  : int 5
+  .. ..$ name: chr "Left Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 62
+  .. ..$ : num 12
+  ..$ duration       : num 1.17
+  ..$ related_events :List of 3
+  .. ..$ : chr "22377994-7f25-4215-900c-180199bda3c0"
+  .. ..$ : chr "68a4673a-5d15-4c4d-9a05-c4572d9ea631"
+  .. ..$ : chr "91486689-d550-4e69-8299-4eb0a8cabc84"
+  ..$ pass           :List of 8
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4634
+  .. .. ..$ name: chr "Crystal Dunn"
+  .. ..$ length      : num 18.1
+  .. ..$ angle       : num -0.111
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 80
+  .. .. ..$ : num 10
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 66
+  .. .. ..$ name: chr "Recovery"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "91486689-d550-4e69-8299-4eb0a8cabc84"
+  ..$ index          : int 16
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:29.633"
+  ..$ minute         : int 0
+  ..$ second         : int 29
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 75
+  .. ..$ : num 8
+  ..$ related_events :List of 1
+  .. ..$ : chr "7f64ebd2-94fa-4d83-91dc-9b713c4d3fe2"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 16
+  ..$ id             : chr "3d2c0000-7bff-4e4e-9048-636563f362f6"
+  ..$ index          : int 17
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:29.620"
+  ..$ minute         : int 0
+  ..$ second         : int 29
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 78
+  .. ..$ : num 5
+  ..$ duration       : num 0.16
+  ..$ related_events :List of 1
+  .. ..$ : chr "68a4673a-5d15-4c4d-9a05-c4572d9ea631"
+ $ :List of 18
+  ..$ id             : chr "68a4673a-5d15-4c4d-9a05-c4572d9ea631"
+  ..$ index          : int 18
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:29.633"
+  ..$ minute         : int 0
+  ..$ second         : int 29
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4649
+  .. ..$ name: chr "Esme Beth Morgan"
+  ..$ position       :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Right Back"
+  ..$ location       :List of 2
+  .. ..$ : num 41
+  .. ..$ : num 71
+  ..$ duration       : num 0.147
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 3
+  .. ..$ : chr "3d2c0000-7bff-4e4e-9048-636563f362f6"
+  .. ..$ : chr "7f64ebd2-94fa-4d83-91dc-9b713c4d3fe2"
+  .. ..$ : chr "f5f8337c-3e64-4dbe-bb94-bf9111011ded"
+  ..$ pass           :List of 7
+  .. ..$ length      : num 2.83
+  .. ..$ angle       : num 0.785
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 43
+  .. .. ..$ : num 73
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 66
+  .. .. ..$ name: chr "Recovery"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "f5f8337c-3e64-4dbe-bb94-bf9111011ded"
+  ..$ index          : int 19
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:29.780"
+  ..$ minute         : int 0
+  ..$ second         : int 29
+  ..$ type           :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Block"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 78
+  .. ..$ : num 8
+  ..$ related_events :List of 1
+  .. ..$ : chr "68a4673a-5d15-4c4d-9a05-c4572d9ea631"
+ $ :List of 16
+  ..$ id             : chr "dede8ea0-83c2-4709-a992-84b3e0587866"
+  ..$ index          : int 20
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:31.340"
+  ..$ minute         : int 0
+  ..$ second         : int 31
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4639
+  .. ..$ name: chr "Maren Mjelde"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 72
+  .. ..$ : num 11
+  ..$ duration       : num 0.24
+  ..$ related_events :List of 1
+  .. ..$ : chr "c3bf3c1f-320f-430d-83e6-fef122d53c1f"
+ $ :List of 18
+  ..$ id             : chr "c3bf3c1f-320f-430d-83e6-fef122d53c1f"
+  ..$ index          : int 21
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:31.420"
+  ..$ minute         : int 0
+  ..$ second         : int 31
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4644
+  .. ..$ name: chr "Jill Scott"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 43
+  .. ..$ : num 66
+  ..$ duration       : num 1.25
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "93dd9ef9-1ed0-48dc-9536-11a847867228"
+  .. ..$ : chr "dede8ea0-83c2-4709-a992-84b3e0587866"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4654
+  .. .. ..$ name: chr "Nikita Parris"
+  .. ..$ length      : num 18
+  .. ..$ angle       : num 0.588
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 2
+  .. .. ..$ name: chr "Low Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 58
+  .. .. ..$ : num 76
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 66
+  .. .. ..$ name: chr "Recovery"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 37
+  .. .. ..$ name: chr "Head"
+ $ :List of 15
+  ..$ id             : chr "93dd9ef9-1ed0-48dc-9536-11a847867228"
+  ..$ index          : int 22
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:32.673"
+  ..$ minute         : int 0
+  ..$ second         : int 32
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 58
+  .. ..$ : num 76
+  ..$ related_events :List of 1
+  .. ..$ : chr "c3bf3c1f-320f-430d-83e6-fef122d53c1f"
+ $ :List of 17
+  ..$ id             : chr "7aa91353-4e81-479e-881e-616dd116d832"
+  ..$ index          : int 23
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:32.793"
+  ..$ minute         : int 0
+  ..$ second         : int 32
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 58
+  .. ..$ : num 76
+  ..$ duration       : num 1.51
+  ..$ related_events :List of 1
+  .. ..$ : chr "d3e67a1b-1ef6-42a2-98f1-9327e1ab62bd"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4650
+  .. .. ..$ name: chr "Nadia Nadim"
+  .. ..$ length      : num 17.7
+  .. ..$ angle       : num -0.286
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 75
+  .. .. ..$ : num 71
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "d3e67a1b-1ef6-42a2-98f1-9327e1ab62bd"
+  ..$ index          : int 24
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:34.299"
+  ..$ minute         : int 0
+  ..$ second         : int 34
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 75
+  .. ..$ : num 71
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 1
+  .. ..$ : chr "7aa91353-4e81-479e-881e-616dd116d832"
+ $ :List of 15
+  ..$ id             : chr "7a8f1121-430f-42ec-a1c4-2f4238e231ff"
+  ..$ index          : int 25
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:34.260"
+  ..$ minute         : int 0
+  ..$ second         : int 34
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4633
+  .. ..$ name: chr "Magdalena Ericsson"
+  ..$ position       :List of 2
+  .. ..$ id  : int 5
+  .. ..$ name: chr "Left Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 48
+  .. ..$ : num 8
+  ..$ duration       : num 0.36
+ $ :List of 14
+  ..$ id             : chr "ecb084d5-889a-475a-b3d5-994838e22332"
+  ..$ index          : int 26
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:35.380"
+  ..$ minute         : int 0
+  ..$ second         : int 35
+  ..$ type           :List of 2
+  .. ..$ id  : int 38
+  .. ..$ name: chr "Miscontrol"
+  ..$ possession     : int 3
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 7
+  .. ..$ name: chr "From Goal Kick"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 79
+  .. ..$ : num 70
+ $ :List of 14
+  ..$ id             : chr "bc565706-d93e-4f83-8e4b-ef19511693cf"
+  ..$ index          : int 27
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:35.620"
+  ..$ minute         : int 0
+  ..$ second         : int 35
+  ..$ type           :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Ball Recovery"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 37
+  .. ..$ : num 10
+ $ :List of 17
+  ..$ id             : chr "b4fb4e72-52de-4662-9e01-9975d4983ea2"
+  ..$ index          : int 28
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:38.660"
+  ..$ minute         : int 0
+  ..$ second         : int 38
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 44
+  .. ..$ : num 17
+  ..$ duration       : num 3.45
+  ..$ related_events :List of 1
+  .. ..$ : chr "192f6173-6c39-4608-9471-2197dd1e1ad8"
+  ..$ pass           :List of 9
+  .. ..$ recipient       :List of 2
+  .. .. ..$ id  : int 4641
+  .. .. ..$ name: chr "Francesca Kirby"
+  .. ..$ length          : num 51.4
+  .. ..$ angle           : num 0.117
+  .. ..$ height          :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location    :List of 2
+  .. .. ..$ : num 95
+  .. .. ..$ : num 23
+  .. ..$ assisted_shot_id: chr "ca872e6a-a89c-45bf-b001-8f65de9f5a52"
+  .. ..$ shot_assist     : logi TRUE
+  .. ..$ through_ball    : logi TRUE
+  .. ..$ body_part       :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "192f6173-6c39-4608-9471-2197dd1e1ad8"
+  ..$ index          : int 29
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:42.113"
+  ..$ minute         : int 0
+  ..$ second         : int 42
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 95
+  .. ..$ : num 23
+  ..$ related_events :List of 1
+  .. ..$ : chr "b4fb4e72-52de-4662-9e01-9975d4983ea2"
+ $ :List of 15
+  ..$ id             : chr "84727dab-07e8-4312-8ebc-8edfb4cbeb6c"
+  ..$ index          : int 30
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:42.220"
+  ..$ minute         : int 0
+  ..$ second         : int 42
+  ..$ type           :List of 2
+  .. ..$ id  : int 39
+  .. ..$ name: chr "Dribbled Past"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4637
+  .. ..$ name: chr "Ellie Roebuck"
+  ..$ position       :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Goalkeeper"
+  ..$ location       :List of 2
+  .. ..$ : num 23
+  .. ..$ : num 59
+  ..$ related_events :List of 1
+  .. ..$ : chr "0f405db4-e32b-4c0e-b59b-eff3449640b5"
+ $ :List of 16
+  ..$ id             : chr "0f405db4-e32b-4c0e-b59b-eff3449640b5"
+  ..$ index          : int 31
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:42.220"
+  ..$ minute         : int 0
+  ..$ second         : int 42
+  ..$ type           :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Dribble"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 98
+  .. ..$ : num 22
+  ..$ related_events :List of 1
+  .. ..$ : chr "84727dab-07e8-4312-8ebc-8edfb4cbeb6c"
+  ..$ dribble        :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 8
+  .. .. ..$ name: chr "Complete"
+ $ :List of 15
+  ..$ id             : chr "7ded0d7d-934c-448b-b24d-eb53ae3b18ee"
+  ..$ index          : int 32
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:45.980"
+  ..$ minute         : int 0
+  ..$ second         : int 45
+  ..$ type           :List of 2
+  .. ..$ id  : int 39
+  .. ..$ name: chr "Dribbled Past"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4637
+  .. ..$ name: chr "Ellie Roebuck"
+  ..$ position       :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Goalkeeper"
+  ..$ location       :List of 2
+  .. ..$ : num 3
+  .. ..$ : num 59
+  ..$ related_events :List of 1
+  .. ..$ : chr "3d6c71d7-71f6-47d1-bc8c-aa00603cb6b9"
+ $ :List of 16
+  ..$ id             : chr "3d6c71d7-71f6-47d1-bc8c-aa00603cb6b9"
+  ..$ index          : int 33
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:45.980"
+  ..$ minute         : int 0
+  ..$ second         : int 45
+  ..$ type           :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Dribble"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 118
+  .. ..$ : num 22
+  ..$ related_events :List of 1
+  .. ..$ : chr "7ded0d7d-934c-448b-b24d-eb53ae3b18ee"
+  ..$ dribble        :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 8
+  .. .. ..$ name: chr "Complete"
+ $ :List of 17
+  ..$ id             : chr "ca872e6a-a89c-45bf-b001-8f65de9f5a52"
+  ..$ index          : int 34
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:47.620"
+  ..$ minute         : int 0
+  ..$ second         : int 47
+  ..$ type           :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Shot"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 115
+  .. ..$ : num 25
+  ..$ duration       : num 0.56
+  ..$ related_events :List of 2
+  .. ..$ : chr "2f47cc3f-bdc6-49d9-a601-59eb5094e955"
+  .. ..$ : chr "f2c8fe3a-e75b-4771-85b9-aa40eb9190bb"
+  ..$ shot           :List of 9
+  .. ..$ statsbomb_xg   : num 0.271
+  .. ..$ end_location   :List of 2
+  .. .. ..$ : num 117
+  .. .. ..$ : num 34
+  .. ..$ key_pass_id    : chr "b4fb4e72-52de-4662-9e01-9975d4983ea2"
+  .. ..$ follows_dribble: logi TRUE
+  .. ..$ outcome        :List of 2
+  .. .. ..$ id  : int 96
+  .. .. ..$ name: chr "Blocked"
+  .. ..$ type           :List of 2
+  .. .. ..$ id  : int 87
+  .. .. ..$ name: chr "Open Play"
+  .. ..$ technique      :List of 2
+  .. .. ..$ id  : int 93
+  .. .. ..$ name: chr "Normal"
+  .. ..$ body_part      :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+  .. ..$ freeze_frame   :List of 10
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 113
+  .. .. .. .. ..$ : num 32
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4658
+  .. .. .. .. ..$ name: chr "Keira Walsh"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 14
+  .. .. .. .. ..$ name: chr "Center Midfield"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 115
+  .. .. .. .. ..$ : num 41
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4651
+  .. .. .. .. ..$ name: chr "Demi Stokes"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 6
+  .. .. .. .. ..$ name: chr "Left Back"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 115
+  .. .. .. .. ..$ : num 36
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4655
+  .. .. .. .. ..$ name: chr "Jennifer Beattie"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 5
+  .. .. .. .. ..$ name: chr "Left Center Back"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 117
+  .. .. .. .. ..$ : num 31
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4648
+  .. .. .. .. ..$ name: chr "Abbie McManus"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 3
+  .. .. .. .. ..$ name: chr "Right Center Back"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 109
+  .. .. .. .. ..$ : num 39
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4645
+  .. .. .. .. ..$ name: chr "Isobel Christiansen"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 15
+  .. .. .. .. ..$ name: chr "Left Center Midfield"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 120
+  .. .. .. .. ..$ : num 26
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4637
+  .. .. .. .. ..$ name: chr "Ellie Roebuck"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 1
+  .. .. .. .. ..$ name: chr "Goalkeeper"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 103
+  .. .. .. .. ..$ : num 50
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4635
+  .. .. .. .. ..$ name: chr "Julia Spetsmark"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 21
+  .. .. .. .. ..$ name: chr "Left Wing"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 112
+  .. .. .. .. ..$ : num 28
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4649
+  .. .. .. .. ..$ name: chr "Esme Beth Morgan"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 2
+  .. .. .. .. ..$ name: chr "Right Back"
+  .. .. .. ..$ teammate: logi FALSE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 97
+  .. .. .. .. ..$ : num 48
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4656
+  .. .. .. .. ..$ name: chr "Hannah Jayne Blundell"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 12
+  .. .. .. .. ..$ name: chr "Right Midfield"
+  .. .. .. ..$ teammate: logi TRUE
+  .. .. ..$ :List of 4
+  .. .. .. ..$ location:List of 2
+  .. .. .. .. ..$ : num 113
+  .. .. .. .. ..$ : num 38
+  .. .. .. ..$ player  :List of 2
+  .. .. .. .. ..$ id  : int 4638
+  .. .. .. .. ..$ name: chr "Drew Spence"
+  .. .. .. ..$ position:List of 2
+  .. .. .. .. ..$ id  : int 15
+  .. .. .. .. ..$ name: chr "Left Center Midfield"
+  .. .. .. ..$ teammate: logi TRUE
+ $ :List of 15
+  ..$ id             : chr "2f47cc3f-bdc6-49d9-a601-59eb5094e955"
+  ..$ index          : int 35
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:48.180"
+  ..$ minute         : int 0
+  ..$ second         : int 48
+  ..$ type           :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Block"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4648
+  .. ..$ name: chr "Abbie McManus"
+  ..$ position       :List of 2
+  .. ..$ id  : int 3
+  .. ..$ name: chr "Right Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 4
+  .. ..$ : num 47
+  ..$ related_events :List of 1
+  .. ..$ : chr "ca872e6a-a89c-45bf-b001-8f65de9f5a52"
+ $ :List of 16
+  ..$ id             : chr "f2c8fe3a-e75b-4771-85b9-aa40eb9190bb"
+  ..$ index          : int 36
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:00:48.793"
+  ..$ minute         : int 0
+  ..$ second         : int 48
+  ..$ type           :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Goal Keeper"
+  ..$ possession     : int 4
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4637
+  .. ..$ name: chr "Ellie Roebuck"
+  ..$ position       :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Goalkeeper"
+  ..$ location       :List of 2
+  .. ..$ : num 2
+  .. ..$ : num 54
+  ..$ related_events :List of 1
+  .. ..$ : chr "ca872e6a-a89c-45bf-b001-8f65de9f5a52"
+  ..$ goalkeeper     :List of 2
+  .. ..$ type    :List of 2
+  .. .. ..$ id  : int 32
+  .. .. ..$ name: chr "Shot Faced"
+  .. ..$ position:List of 2
+  .. .. ..$ id  : int 42
+  .. .. ..$ name: chr "Moving"
+ $ :List of 17
+  ..$ id             : chr "fa4c9a40-2ba3-49b3-95f5-0e3cfe13c739"
+  ..$ index          : int 37
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:19.900"
+  ..$ minute         : int 1
+  ..$ second         : int 19
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4659
+  .. ..$ name: chr "Ramona Bachmann"
+  ..$ position       :List of 2
+  .. ..$ id  : int 24
+  .. ..$ name: chr "Left Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 119
+  .. ..$ : num 2
+  ..$ duration       : num 1.56
+  ..$ related_events :List of 2
+  .. ..$ : chr "29f8bc46-d8af-47fe-b297-9011c0bbcdf4"
+  .. ..$ : chr "b0646aea-9084-43cc-999e-5164e79afc7f"
+  ..$ pass           :List of 9
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4657
+  .. .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  .. ..$ length      : num 31.1
+  .. ..$ angle       : num 1.67
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 116
+  .. .. ..$ : num 33
+  .. ..$ cross       : logi TRUE
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 61
+  .. .. ..$ name: chr "Corner"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "b0646aea-9084-43cc-999e-5164e79afc7f"
+  ..$ index          : int 38
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:21.460"
+  ..$ minute         : int 1
+  ..$ second         : int 21
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 115
+  .. ..$ : num 33
+  ..$ related_events :List of 1
+  .. ..$ : chr "fa4c9a40-2ba3-49b3-95f5-0e3cfe13c739"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 14
+  ..$ id             : chr "faea9b48-2f6b-4346-bea0-4f3273eb8be3"
+  ..$ index          : int 39
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:21.460"
+  ..$ minute         : int 1
+  ..$ second         : int 21
+  ..$ type           :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Block"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 115
+  .. ..$ : num 36
+ $ :List of 15
+  ..$ id             : chr "29f8bc46-d8af-47fe-b297-9011c0bbcdf4"
+  ..$ index          : int 40
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:21.460"
+  ..$ minute         : int 1
+  ..$ second         : int 21
+  ..$ type           :List of 2
+  .. ..$ id  : int 9
+  .. ..$ name: chr "Clearance"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 5
+  .. ..$ : num 48
+  ..$ related_events :List of 1
+  .. ..$ : chr "fa4c9a40-2ba3-49b3-95f5-0e3cfe13c739"
+ $ :List of 14
+  ..$ id             : chr "2c0bf609-e1ce-4e8e-ae29-b6e0761d9057"
+  ..$ index          : int 41
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:43.340"
+  ..$ minute         : int 1
+  ..$ second         : int 43
+  ..$ type           :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Ball Recovery"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 49
+  .. ..$ : num 25
+ $ :List of 16
+  ..$ id             : chr "14056fc3-7d3c-454a-b205-11d3b6bc2b4c"
+  ..$ index          : int 42
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:43.580"
+  ..$ minute         : int 1
+  ..$ second         : int 43
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 67
+  .. ..$ : num 58
+  ..$ duration       : num 0.533
+  ..$ related_events :List of 1
+  .. ..$ : chr "ce54cc4b-7e11-4ef2-806a-9870ce3b97ee"
+ $ :List of 18
+  ..$ id             : chr "ce54cc4b-7e11-4ef2-806a-9870ce3b97ee"
+  ..$ index          : int 43
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:43.940"
+  ..$ minute         : int 1
+  ..$ second         : int 43
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4657
+  .. ..$ name: chr "Anita Amma Ankyewah Asante"
+  ..$ position       :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 54
+  .. ..$ : num 24
+  ..$ duration       : num 0.56
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 3
+  .. ..$ : chr "14056fc3-7d3c-454a-b205-11d3b6bc2b4c"
+  .. ..$ : chr "dd908ff7-5f32-4702-bba8-91ff4d3174cf"
+  .. ..$ : chr "fc537928-67d0-4622-a908-e8116397d7d8"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4633
+  .. .. ..$ name: chr "Magdalena Ericsson"
+  .. ..$ length      : num 2.24
+  .. ..$ angle       : num 2.03
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 53
+  .. .. ..$ : num 26
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "fc537928-67d0-4622-a908-e8116397d7d8"
+  ..$ index          : int 44
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:44.500"
+  ..$ minute         : int 1
+  ..$ second         : int 44
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4633
+  .. ..$ name: chr "Magdalena Ericsson"
+  ..$ position       :List of 2
+  .. ..$ id  : int 5
+  .. ..$ name: chr "Left Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 47
+  .. ..$ : num 10
+  ..$ related_events :List of 1
+  .. ..$ : chr "ce54cc4b-7e11-4ef2-806a-9870ce3b97ee"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 15
+  ..$ id             : chr "dd908ff7-5f32-4702-bba8-91ff4d3174cf"
+  ..$ index          : int 45
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:44.500"
+  ..$ minute         : int 1
+  ..$ second         : int 44
+  ..$ type           :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Block"
+  ..$ possession     : int 5
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 68
+  .. ..$ : num 55
+  ..$ related_events :List of 1
+  .. ..$ : chr "ce54cc4b-7e11-4ef2-806a-9870ce3b97ee"
+ $ :List of 14
+  ..$ id             : chr "62bcbc5a-b7e8-460f-a8b4-df7c467c2198"
+  ..$ index          : int 46
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:45.673"
+  ..$ minute         : int 1
+  ..$ second         : int 45
+  ..$ type           :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Ball Recovery"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 72
+  .. ..$ : num 50
+ $ :List of 15
+  ..$ id             : chr "6ac2cdab-0a65-4f69-b9d4-b58bfb750f6a"
+  ..$ index          : int 47
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:48.180"
+  ..$ minute         : int 1
+  ..$ second         : int 48
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 32
+  .. ..$ : num 47
+  ..$ duration       : num 1.72
+ $ :List of 17
+  ..$ id             : chr "2534170a-6af3-4109-84ec-0ce6e62dac16"
+  ..$ index          : int 48
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:51.153"
+  ..$ minute         : int 1
+  ..$ second         : int 51
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 92
+  .. ..$ : num 26
+  ..$ duration       : num 2.08
+  ..$ related_events :List of 1
+  .. ..$ : chr "c8910f74-22ed-443e-aad0-33d41360053c"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4651
+  .. .. ..$ name: chr "Demi Stokes"
+  .. ..$ length      : num 21.4
+  .. ..$ angle       : num -1.38
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 96
+  .. .. ..$ : num 5
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 38
+  .. .. ..$ name: chr "Left Foot"
+ $ :List of 15
+  ..$ id             : chr "c8910f74-22ed-443e-aad0-33d41360053c"
+  ..$ index          : int 49
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:53.233"
+  ..$ minute         : int 1
+  ..$ second         : int 53
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4651
+  .. ..$ name: chr "Demi Stokes"
+  ..$ position       :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Left Back"
+  ..$ location       :List of 2
+  .. ..$ : num 96
+  .. ..$ : num 5
+  ..$ related_events :List of 1
+  .. ..$ : chr "2534170a-6af3-4109-84ec-0ce6e62dac16"
+ $ :List of 16
+  ..$ id             : chr "7b8fba4b-dfdd-4410-9770-1e0ab2873664"
+  ..$ index          : int 50
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:53.620"
+  ..$ minute         : int 1
+  ..$ second         : int 53
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 22
+  .. ..$ : num 73
+  ..$ duration       : num 1.12
+  ..$ related_events :List of 1
+  .. ..$ : chr "ad0ac46f-8f1e-4be3-a205-9b447341282a"
+ $ :List of 18
+  ..$ id             : chr "ad0ac46f-8f1e-4be3-a205-9b447341282a"
+  ..$ index          : int 51
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:54.513"
+  ..$ minute         : int 1
+  ..$ second         : int 54
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4651
+  .. ..$ name: chr "Demi Stokes"
+  ..$ position       :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "Left Back"
+  ..$ location       :List of 2
+  .. ..$ : num 95
+  .. ..$ : num 5
+  ..$ duration       : num 0.76
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "7b8fba4b-dfdd-4410-9770-1e0ab2873664"
+  .. ..$ : chr "9cb33b8e-62cd-4391-997e-8a22fa3c3565"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4645
+  .. .. ..$ name: chr "Isobel Christiansen"
+  .. ..$ length      : num 13.6
+  .. ..$ angle       : num 2.2
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 87
+  .. .. ..$ : num 16
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 38
+  .. .. ..$ name: chr "Left Foot"
+ $ :List of 15
+  ..$ id             : chr "9cb33b8e-62cd-4391-997e-8a22fa3c3565"
+  ..$ index          : int 52
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:55.273"
+  ..$ minute         : int 1
+  ..$ second         : int 55
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4645
+  .. ..$ name: chr "Isobel Christiansen"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 87
+  .. ..$ : num 16
+  ..$ related_events :List of 1
+  .. ..$ : chr "ad0ac46f-8f1e-4be3-a205-9b447341282a"
+ $ :List of 16
+  ..$ id             : chr "b0cdf059-3360-4359-8421-96ceab082cdd"
+  ..$ index          : int 53
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:55.940"
+  ..$ minute         : int 1
+  ..$ second         : int 55
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 30
+  .. ..$ : num 57
+  ..$ duration       : num 0.68
+  ..$ related_events :List of 1
+  .. ..$ : chr "3d8c51ae-1a5c-491e-bc09-5bd43ba5202c"
+ $ :List of 18
+  ..$ id             : chr "3d8c51ae-1a5c-491e-bc09-5bd43ba5202c"
+  ..$ index          : int 54
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:56.513"
+  ..$ minute         : int 1
+  ..$ second         : int 56
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4645
+  .. ..$ name: chr "Isobel Christiansen"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 87
+  .. ..$ : num 17
+  ..$ duration       : num 1.28
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "13cc0e93-4769-4822-ba50-5c08cc8018f2"
+  .. ..$ : chr "b0cdf059-3360-4359-8421-96ceab082cdd"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4650
+  .. .. ..$ name: chr "Nadia Nadim"
+  .. ..$ length      : num 29.2
+  .. ..$ angle       : num 0.907
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 105
+  .. .. ..$ : num 40
+  .. ..$ cross       : logi TRUE
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "13cc0e93-4769-4822-ba50-5c08cc8018f2"
+  ..$ index          : int 55
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:57.793"
+  ..$ minute         : int 1
+  ..$ second         : int 57
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 105
+  .. ..$ : num 40
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 1
+  .. ..$ : chr "3d8c51ae-1a5c-491e-bc09-5bd43ba5202c"
+ $ :List of 15
+  ..$ id             : chr "6ae56144-0c86-4210-b6c3-9490ff913efe"
+  ..$ index          : int 56
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:01:57.740"
+  ..$ minute         : int 1
+  ..$ second         : int 57
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4633
+  .. ..$ name: chr "Magdalena Ericsson"
+  ..$ position       :List of 2
+  .. ..$ id  : int 5
+  .. ..$ name: chr "Left Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 15
+  .. ..$ : num 36
+  ..$ duration       : num 1.64
+ $ :List of 17
+  ..$ id             : chr "b2b2dcfc-c1ca-45a8-966a-eb9fa56efc76"
+  ..$ index          : int 57
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:00.793"
+  ..$ minute         : int 2
+  ..$ second         : int 0
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 100
+  .. ..$ : num 40
+  ..$ duration       : num 0.88
+  ..$ related_events :List of 1
+  .. ..$ : chr "57d55978-adeb-4900-9dd8-9c41a0b8ca17"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4644
+  .. .. ..$ name: chr "Jill Scott"
+  .. ..$ length      : num 17.2
+  .. ..$ angle       : num 2.19
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 90
+  .. .. ..$ : num 54
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "57d55978-adeb-4900-9dd8-9c41a0b8ca17"
+  ..$ index          : int 58
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:01.673"
+  ..$ minute         : int 2
+  ..$ second         : int 1
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4644
+  .. ..$ name: chr "Jill Scott"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 90
+  .. ..$ : num 54
+  ..$ related_events :List of 1
+  .. ..$ : chr "b2b2dcfc-c1ca-45a8-966a-eb9fa56efc76"
+ $ :List of 16
+  ..$ id             : chr "7a815b46-b166-4296-90f9-3cbb9a5ee810"
+  ..$ index          : int 59
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:02.180"
+  ..$ minute         : int 2
+  ..$ second         : int 2
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4639
+  .. ..$ name: chr "Maren Mjelde"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 30
+  .. ..$ : num 30
+  ..$ duration       : num 0.88
+  ..$ related_events :List of 1
+  .. ..$ : chr "21478b33-58de-4d84-8f01-d0ec981d9472"
+ $ :List of 18
+  ..$ id             : chr "21478b33-58de-4d84-8f01-d0ec981d9472"
+  ..$ index          : int 60
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:03.032"
+  ..$ minute         : int 2
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4644
+  .. ..$ name: chr "Jill Scott"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 90
+  .. ..$ : num 54
+  ..$ duration       : num 0.68
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "7a815b46-b166-4296-90f9-3cbb9a5ee810"
+  .. ..$ : chr "8ec23d07-88db-4279-91d5-5fcc78a17db5"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4654
+  .. .. ..$ name: chr "Nikita Parris"
+  .. ..$ length      : num 12.1
+  .. ..$ angle       : num 0.427
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 101
+  .. .. ..$ : num 59
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "8ec23d07-88db-4279-91d5-5fcc78a17db5"
+  ..$ index          : int 61
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:03.712"
+  ..$ minute         : int 2
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 101
+  .. ..$ : num 59
+  ..$ related_events :List of 1
+  .. ..$ : chr "21478b33-58de-4d84-8f01-d0ec981d9472"
+ $ :List of 16
+  ..$ id             : chr "2e26fb4b-9683-488d-8ea5-d9bcda2b1725"
+  ..$ index          : int 62
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:03.900"
+  ..$ minute         : int 2
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 23
+  .. ..$ : num 22
+  ..$ duration       : num 3.6
+  ..$ related_events :List of 1
+  .. ..$ : chr "24d6ac97-0014-43d2-99ef-4eee8b5e7601"
+ $ :List of 17
+  ..$ id             : chr "24d6ac97-0014-43d2-99ef-4eee8b5e7601"
+  ..$ index          : int 63
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:07.500"
+  ..$ minute         : int 2
+  ..$ second         : int 7
+  ..$ type           :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Dribble"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 115
+  .. ..$ : num 59
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "2e26fb4b-9683-488d-8ea5-d9bcda2b1725"
+  .. ..$ : chr "3ae2010d-989e-42c0-b3e7-5ffeb264f506"
+  ..$ dribble        :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 16
+  ..$ id             : chr "3ae2010d-989e-42c0-b3e7-5ffeb264f506"
+  ..$ index          : int 64
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:07.500"
+  ..$ minute         : int 2
+  ..$ second         : int 7
+  ..$ type           :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Duel"
+  ..$ possession     : int 6
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4634
+  .. ..$ name: chr "Crystal Dunn"
+  ..$ position       :List of 2
+  .. ..$ id  : int 16
+  .. ..$ name: chr "Left Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 6
+  .. ..$ : num 22
+  ..$ related_events :List of 1
+  .. ..$ : chr "24d6ac97-0014-43d2-99ef-4eee8b5e7601"
+  ..$ duel           :List of 2
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 14
+  .. .. ..$ name: chr "Lost Out"
+  .. ..$ type   :List of 2
+  .. .. ..$ id  : int 11
+  .. .. ..$ name: chr "Tackle"
+ $ :List of 17
+  ..$ id             : chr "661f1c85-1322-4ac0-856e-6936b3b8569e"
+  ..$ index          : int 65
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:46.020"
+  ..$ minute         : int 2
+  ..$ second         : int 46
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 7
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4645
+  .. ..$ name: chr "Isobel Christiansen"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 120
+  .. ..$ : num 80
+  ..$ duration       : num 1.92
+  ..$ related_events :List of 2
+  .. ..$ : chr "b89fabf6-3ef9-48a0-9c63-677430ca7eff"
+  .. ..$ : chr "d80520af-82b9-4171-bfb8-8b7e13f7a909"
+  ..$ pass           :List of 8
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4654
+  .. .. ..$ name: chr "Nikita Parris"
+  .. ..$ length      : num 38
+  .. ..$ angle       : num -1.6
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 119
+  .. .. ..$ : num 42
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 61
+  .. .. ..$ name: chr "Corner"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "b89fabf6-3ef9-48a0-9c63-677430ca7eff"
+  ..$ index          : int 66
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:47.940"
+  ..$ minute         : int 2
+  ..$ second         : int 47
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 7
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4654
+  .. ..$ name: chr "Nikita Parris"
+  ..$ position       :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Right Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 118
+  .. ..$ : num 41
+  ..$ related_events :List of 1
+  .. ..$ : chr "661f1c85-1322-4ac0-856e-6936b3b8569e"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 16
+  ..$ id             : chr "d80520af-82b9-4171-bfb8-8b7e13f7a909"
+  ..$ index          : int 67
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:47.940"
+  ..$ minute         : int 2
+  ..$ second         : int 47
+  ..$ type           :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Goal Keeper"
+  ..$ possession     : int 7
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "From Corner"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4640
+  .. ..$ name: chr "Rut Hedvig Lindahl"
+  ..$ position       :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Goalkeeper"
+  ..$ location       :List of 2
+  .. ..$ : num 2
+  .. ..$ : num 39
+  ..$ related_events :List of 1
+  .. ..$ : chr "661f1c85-1322-4ac0-856e-6936b3b8569e"
+  ..$ goalkeeper     :List of 2
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 53
+  .. .. ..$ name: chr "In Play Safe"
+  .. ..$ type   :List of 2
+  .. .. ..$ id  : int 30
+  .. .. ..$ name: chr "Punch"
+ $ :List of 14
+  ..$ id             : chr "08dc4a6c-43fc-49f2-8283-4dba0b6b0d6c"
+  ..$ index          : int 68
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:48.780"
+  ..$ minute         : int 2
+  ..$ second         : int 48
+  ..$ type           :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Ball Recovery"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4638
+  .. ..$ name: chr "Drew Spence"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 10
+  .. ..$ : num 38
+ $ :List of 17
+  ..$ id             : chr "867d0c9f-f8c4-4d84-a240-ef1922a38502"
+  ..$ index          : int 69
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:49.260"
+  ..$ minute         : int 2
+  ..$ second         : int 49
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4638
+  .. ..$ name: chr "Drew Spence"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 9
+  .. ..$ : num 41
+  ..$ duration       : num 3.12
+  ..$ related_events :List of 1
+  .. ..$ : chr "b70f53a5-65c9-4b0a-bb33-dd974da3e4a2"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4641
+  .. .. ..$ name: chr "Francesca Kirby"
+  .. ..$ length      : num 29.6
+  .. ..$ angle       : num 0.204
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 38
+  .. .. ..$ : num 47
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "b70f53a5-65c9-4b0a-bb33-dd974da3e4a2"
+  ..$ index          : int 70
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:52.380"
+  ..$ minute         : int 2
+  ..$ second         : int 52
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 38
+  .. ..$ : num 47
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 1
+  .. ..$ : chr "867d0c9f-f8c4-4d84-a240-ef1922a38502"
+ $ :List of 15
+  ..$ id             : chr "afa1fcc1-1c9e-479a-9351-62382eb44c3b"
+  ..$ index          : int 71
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:51.300"
+  ..$ minute         : int 2
+  ..$ second         : int 51
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4658
+  .. ..$ name: chr "Keira Walsh"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 81
+  .. ..$ : num 38
+  ..$ duration       : num 1.17
+ $ :List of 15
+  ..$ id             : chr "a9529c6a-ff27-4ec4-ba16-6d5a5b92df90"
+  ..$ index          : int 72
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:53.820"
+  ..$ minute         : int 2
+  ..$ second         : int 53
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 82
+  .. ..$ : num 32
+  ..$ duration       : num 0.4
+ $ :List of 16
+  ..$ id             : chr "e611cd1a-aab5-4beb-8157-45871fce928a"
+  ..$ index          : int 73
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:56.020"
+  ..$ minute         : int 2
+  ..$ second         : int 56
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4650
+  .. ..$ name: chr "Nadia Nadim"
+  ..$ position       :List of 2
+  .. ..$ id  : int 23
+  .. ..$ name: chr "Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 87
+  .. ..$ : num 41
+  ..$ duration       : num 3.37
+  ..$ related_events :List of 3
+  .. ..$ : chr "40706a86-ab3f-4c47-9e9c-ac275c745052"
+  .. ..$ : chr "745c5ea9-9c18-4530-b842-10ba2d6a46cd"
+  .. ..$ : chr "ae496e58-9447-475c-bdde-fdf9a6a81f1a"
+ $ :List of 18
+  ..$ id             : chr "40706a86-ab3f-4c47-9e9c-ac275c745052"
+  ..$ index          : int 74
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:56.140"
+  ..$ minute         : int 2
+  ..$ second         : int 56
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 31
+  .. ..$ : num 40
+  ..$ duration       : num 1.28
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "ae496e58-9447-475c-bdde-fdf9a6a81f1a"
+  .. ..$ : chr "e611cd1a-aab5-4beb-8157-45871fce928a"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4642
+  .. .. ..$ name: chr "Millie Bright"
+  .. ..$ length      : num 15.1
+  .. ..$ angle       : num 1.7
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 29
+  .. .. ..$ : num 55
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "ae496e58-9447-475c-bdde-fdf9a6a81f1a"
+  ..$ index          : int 75
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:57.420"
+  ..$ minute         : int 2
+  ..$ second         : int 57
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4642
+  .. ..$ name: chr "Millie Bright"
+  ..$ position       :List of 2
+  .. ..$ id  : int 3
+  .. ..$ name: chr "Right Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 29
+  .. ..$ : num 55
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "40706a86-ab3f-4c47-9e9c-ac275c745052"
+  .. ..$ : chr "e611cd1a-aab5-4beb-8157-45871fce928a"
+ $ :List of 18
+  ..$ id             : chr "745c5ea9-9c18-4530-b842-10ba2d6a46cd"
+  ..$ index          : int 76
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:02:59.140"
+  ..$ minute         : int 2
+  ..$ second         : int 59
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4642
+  .. ..$ name: chr "Millie Bright"
+  ..$ position       :List of 2
+  .. ..$ id  : int 3
+  .. ..$ name: chr "Right Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 27
+  .. ..$ : num 58
+  ..$ duration       : num 4
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 3
+  .. ..$ : chr "6838cafb-e559-48d6-b2df-bc6fe25613cb"
+  .. ..$ : chr "689d0fcb-7684-44ff-a555-cc0350c36156"
+  .. ..$ : chr "e611cd1a-aab5-4beb-8157-45871fce928a"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4656
+  .. .. ..$ name: chr "Hannah Jayne Blundell"
+  .. ..$ length      : num 59.5
+  .. ..$ angle       : num 0.135
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 86
+  .. .. ..$ : num 66
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "6838cafb-e559-48d6-b2df-bc6fe25613cb"
+  ..$ index          : int 77
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:03.140"
+  ..$ minute         : int 3
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 84
+  .. ..$ : num 69
+  ..$ related_events :List of 1
+  .. ..$ : chr "745c5ea9-9c18-4530-b842-10ba2d6a46cd"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 16
+  ..$ id             : chr "9f48365c-a7d2-4e20-a3fe-046a9d91fbfe"
+  ..$ index          : int 78
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:03.060"
+  ..$ minute         : int 3
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 8
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 79
+  .. ..$ : num 67
+  ..$ duration       : num 0.68
+  ..$ related_events :List of 1
+  .. ..$ : chr "689d0fcb-7684-44ff-a555-cc0350c36156"
+ $ :List of 18
+  ..$ id             : chr "689d0fcb-7684-44ff-a555-cc0350c36156"
+  ..$ index          : int 79
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:03.140"
+  ..$ minute         : int 3
+  ..$ second         : int 3
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4655
+  .. ..$ name: chr "Jennifer Beattie"
+  ..$ position       :List of 2
+  .. ..$ id  : int 5
+  .. ..$ name: chr "Left Center Back"
+  ..$ location       :List of 2
+  .. ..$ : num 35
+  .. ..$ : num 15
+  ..$ duration       : num 1.81
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 3
+  .. ..$ : chr "13f9822d-fc25-4d48-8084-5716ea859fad"
+  .. ..$ : chr "745c5ea9-9c18-4530-b842-10ba2d6a46cd"
+  .. ..$ : chr "9f48365c-a7d2-4e20-a3fe-046a9d91fbfe"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4635
+  .. .. ..$ name: chr "Julia Spetsmark"
+  .. ..$ length      : num 11.2
+  .. ..$ angle       : num -0.464
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 3
+  .. .. ..$ name: chr "High Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 45
+  .. .. ..$ : num 10
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 66
+  .. .. ..$ name: chr "Recovery"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "13f9822d-fc25-4d48-8084-5716ea859fad"
+  ..$ index          : int 80
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:04.953"
+  ..$ minute         : int 3
+  ..$ second         : int 4
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 45
+  .. ..$ : num 10
+  ..$ related_events :List of 1
+  .. ..$ : chr "689d0fcb-7684-44ff-a555-cc0350c36156"
+ $ :List of 16
+  ..$ id             : chr "08b5a3e9-3e4c-4bbf-aeea-5591e3b04a34"
+  ..$ index          : int 81
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:05.180"
+  ..$ minute         : int 3
+  ..$ second         : int 5
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 74
+  .. ..$ : num 74
+  ..$ duration       : num 1.04
+  ..$ related_events :List of 1
+  .. ..$ : chr "a697ccb9-b916-4f88-82b2-5d60421357ba"
+ $ :List of 17
+  ..$ id             : chr "a697ccb9-b916-4f88-82b2-5d60421357ba"
+  ..$ index          : int 82
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:06.020"
+  ..$ minute         : int 3
+  ..$ second         : int 6
+  ..$ type           :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Dribble"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 41
+  .. ..$ : num 7
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "08b5a3e9-3e4c-4bbf-aeea-5591e3b04a34"
+  .. ..$ : chr "80544730-dda9-428b-a837-1684e559f947"
+  ..$ dribble        :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 16
+  ..$ id             : chr "80544730-dda9-428b-a837-1684e559f947"
+  ..$ index          : int 83
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:06.020"
+  ..$ minute         : int 3
+  ..$ second         : int 6
+  ..$ type           :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Duel"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 80
+  .. ..$ : num 74
+  ..$ related_events :List of 1
+  .. ..$ : chr "a697ccb9-b916-4f88-82b2-5d60421357ba"
+  ..$ duel           :List of 2
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 13
+  .. .. ..$ name: chr "Lost In Play"
+  .. ..$ type   :List of 2
+  .. .. ..$ id  : int 11
+  .. .. ..$ name: chr "Tackle"
+ $ :List of 16
+  ..$ id             : chr "0cb2ec5f-c267-4242-ad56-12855159559c"
+  ..$ index          : int 84
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:07.580"
+  ..$ minute         : int 3
+  ..$ second         : int 7
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 80
+  .. ..$ : num 78
+  ..$ duration       : num 2.28
+  ..$ related_events :List of 1
+  .. ..$ : chr "3f5eb16d-d4cb-4eae-b9cb-8096dd8352b1"
+ $ :List of 16
+  ..$ id             : chr "3f5eb16d-d4cb-4eae-b9cb-8096dd8352b1"
+  ..$ index          : int 85
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:07.793"
+  ..$ minute         : int 3
+  ..$ second         : int 7
+  ..$ type           :List of 2
+  .. ..$ id  : int 2
+  .. ..$ name: chr "Ball Recovery"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 43
+  .. ..$ : num 7
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 1
+  .. ..$ : chr "0cb2ec5f-c267-4242-ad56-12855159559c"
+ $ :List of 15
+  ..$ id             : chr "6a3674c2-f4f1-46fa-a245-344fcfdf4b2f"
+  ..$ index          : int 86
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:10.113"
+  ..$ minute         : int 3
+  ..$ second         : int 10
+  ..$ type           :List of 2
+  .. ..$ id  : int 3
+  .. ..$ name: chr "Dispossessed"
+  ..$ possession     : int 9
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 1
+  .. ..$ name: chr "Regular Play"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4635
+  .. ..$ name: chr "Julia Spetsmark"
+  ..$ position       :List of 2
+  .. ..$ id  : int 21
+  .. ..$ name: chr "Left Wing"
+  ..$ location       :List of 2
+  .. ..$ : num 50
+  .. ..$ : num 3
+  ..$ related_events :List of 1
+  .. ..$ : chr "f422e0a4-bb9c-4c60-b298-c36abbf70946"
+ $ :List of 16
+  ..$ id             : chr "f422e0a4-bb9c-4c60-b298-c36abbf70946"
+  ..$ index          : int 87
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:10.113"
+  ..$ minute         : int 3
+  ..$ second         : int 10
+  ..$ type           :List of 2
+  .. ..$ id  : int 4
+  .. ..$ name: chr "Duel"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 71
+  .. ..$ : num 78
+  ..$ related_events :List of 1
+  .. ..$ : chr "6a3674c2-f4f1-46fa-a245-344fcfdf4b2f"
+  ..$ duel           :List of 2
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 4
+  .. .. ..$ name: chr "Won"
+  .. ..$ type   :List of 2
+  .. .. ..$ id  : int 11
+  .. .. ..$ name: chr "Tackle"
+ $ :List of 17
+  ..$ id             : chr "5b43d81a-f7f3-4e1c-8634-cd917a5d066b"
+  ..$ index          : int 88
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:10.180"
+  ..$ minute         : int 3
+  ..$ second         : int 10
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 78
+  .. ..$ : num 76
+  ..$ duration       : num 1.16
+  ..$ related_events :List of 1
+  .. ..$ : chr "c0acefeb-721a-4749-9ac2-45481d80ad21"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4656
+  .. .. ..$ name: chr "Hannah Jayne Blundell"
+  .. ..$ length      : num 6.08
+  .. ..$ angle       : num 0.165
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 84
+  .. .. ..$ : num 77
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "c0acefeb-721a-4749-9ac2-45481d80ad21"
+  ..$ index          : int 89
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:11.340"
+  ..$ minute         : int 3
+  ..$ second         : int 11
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 84
+  .. ..$ : num 77
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 1
+  .. ..$ : chr "5b43d81a-f7f3-4e1c-8634-cd917a5d066b"
+ $ :List of 16
+  ..$ id             : chr "e7906a02-1bfb-4d74-a3a0-d9f9527a8b15"
+  ..$ index          : int 90
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:10.540"
+  ..$ minute         : int 3
+  ..$ second         : int 10
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4645
+  .. ..$ name: chr "Isobel Christiansen"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 43
+  .. ..$ : num 9
+  ..$ duration       : num 1.09
+  ..$ related_events :List of 1
+  .. ..$ : chr "a21397a1-d9ac-4c54-b21d-d877f5293552"
+ $ :List of 18
+  ..$ id             : chr "a21397a1-d9ac-4c54-b21d-d877f5293552"
+  ..$ index          : int 91
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:11.340"
+  ..$ minute         : int 3
+  ..$ second         : int 11
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4656
+  .. ..$ name: chr "Hannah Jayne Blundell"
+  ..$ position       :List of 2
+  .. ..$ id  : int 12
+  .. ..$ name: chr "Right Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 84
+  .. ..$ : num 77
+  ..$ duration       : num 0.88
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "389055aa-cf64-4969-a16a-ac90e316b4bd"
+  .. ..$ : chr "e7906a02-1bfb-4d74-a3a0-d9f9527a8b15"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4647
+  .. .. ..$ name: chr "So-yun Ji"
+  .. ..$ length      : num 8.54
+  .. ..$ angle       : num -1.93
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 81
+  .. .. ..$ : num 69
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "389055aa-cf64-4969-a16a-ac90e316b4bd"
+  ..$ index          : int 92
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:12.220"
+  ..$ minute         : int 3
+  ..$ second         : int 12
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 81
+  .. ..$ : num 69
+  ..$ related_events :List of 1
+  .. ..$ : chr "a21397a1-d9ac-4c54-b21d-d877f5293552"
+ $ :List of 16
+  ..$ id             : chr "1ab3a57a-b573-4699-8394-e83a0a0d1453"
+  ..$ index          : int 93
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:12.420"
+  ..$ minute         : int 3
+  ..$ second         : int 12
+  ..$ type           :List of 2
+  .. ..$ id  : int 17
+  .. ..$ name: chr "Pressure"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4658
+  .. ..$ name: chr "Keira Walsh"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 39
+  .. ..$ : num 21
+  ..$ duration       : num 0.893
+  ..$ related_events :List of 1
+  .. ..$ : chr "44c24474-b111-4162-9959-c476e833d203"
+ $ :List of 18
+  ..$ id             : chr "44c24474-b111-4162-9959-c476e833d203"
+  ..$ index          : int 94
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:13.260"
+  ..$ minute         : int 3
+  ..$ second         : int 13
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4647
+  .. ..$ name: chr "So-yun Ji"
+  ..$ position       :List of 2
+  .. ..$ id  : int 14
+  .. ..$ name: chr "Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 83
+  .. ..$ : num 69
+  ..$ duration       : num 0.52
+  ..$ under_pressure : logi TRUE
+  ..$ related_events :List of 2
+  .. ..$ : chr "18f07893-5462-49ae-9ec0-015da2605089"
+  .. ..$ : chr "1ab3a57a-b573-4699-8394-e83a0a0d1453"
+  ..$ pass           :List of 6
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4641
+  .. .. ..$ name: chr "Francesca Kirby"
+  .. ..$ length      : num 10
+  .. ..$ angle       : num -0.0997
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 93
+  .. .. ..$ : num 68
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "18f07893-5462-49ae-9ec0-015da2605089"
+  ..$ index          : int 95
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:13.780"
+  ..$ minute         : int 3
+  ..$ second         : int 13
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 93
+  .. ..$ : num 68
+  ..$ related_events :List of 1
+  .. ..$ : chr "44c24474-b111-4162-9959-c476e833d203"
+ $ :List of 17
+  ..$ id             : chr "abdc43fd-f106-44a2-8491-b7474bc7474b"
+  ..$ index          : int 96
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:14.460"
+  ..$ minute         : int 3
+  ..$ second         : int 14
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4641
+  .. ..$ name: chr "Francesca Kirby"
+  ..$ position       :List of 2
+  .. ..$ id  : int 22
+  .. ..$ name: chr "Right Center Forward"
+  ..$ location       :List of 2
+  .. ..$ : num 90
+  .. ..$ : num 68
+  ..$ duration       : num 1.32
+  ..$ related_events :List of 2
+  .. ..$ : chr "0867f6d5-66e6-45ac-a84e-1f960efd5202"
+  .. ..$ : chr "385a3e66-c2c3-4597-88c3-367eb1624403"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4638
+  .. .. ..$ name: chr "Drew Spence"
+  .. ..$ length      : num 15
+  .. ..$ angle       : num -1.57
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 90
+  .. .. ..$ : num 53
+  .. ..$ outcome     :List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 16
+  ..$ id             : chr "385a3e66-c2c3-4597-88c3-367eb1624403"
+  ..$ index          : int 97
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:15.780"
+  ..$ minute         : int 3
+  ..$ second         : int 15
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 10
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 745
+  .. ..$ name: chr "Chelsea LFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4638
+  .. ..$ name: chr "Drew Spence"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 92
+  .. ..$ : num 55
+  ..$ related_events :List of 1
+  .. ..$ : chr "abdc43fd-f106-44a2-8491-b7474bc7474b"
+  ..$ ball_receipt   :List of 1
+  .. ..$ outcome:List of 2
+  .. .. ..$ id  : int 9
+  .. .. ..$ name: chr "Incomplete"
+ $ :List of 17
+  ..$ id             : chr "0867f6d5-66e6-45ac-a84e-1f960efd5202"
+  ..$ index          : int 98
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:15.780"
+  ..$ minute         : int 3
+  ..$ second         : int 15
+  ..$ type           :List of 2
+  .. ..$ id  : int 30
+  .. ..$ name: chr "Pass"
+  ..$ possession     : int 11
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4644
+  .. ..$ name: chr "Jill Scott"
+  ..$ position       :List of 2
+  .. ..$ id  : int 13
+  .. ..$ name: chr "Right Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 31
+  .. ..$ : num 28
+  ..$ duration       : num 0.613
+  ..$ related_events :List of 2
+  .. ..$ : chr "741e7535-8192-4410-ab88-d61ff05c970c"
+  .. ..$ : chr "abdc43fd-f106-44a2-8491-b7474bc7474b"
+  ..$ pass           :List of 7
+  .. ..$ recipient   :List of 2
+  .. .. ..$ id  : int 4645
+  .. .. ..$ name: chr "Isobel Christiansen"
+  .. ..$ length      : num 4.12
+  .. ..$ angle       : num -1.82
+  .. ..$ height      :List of 2
+  .. .. ..$ id  : int 1
+  .. .. ..$ name: chr "Ground Pass"
+  .. ..$ end_location:List of 2
+  .. .. ..$ : num 30
+  .. .. ..$ : num 24
+  .. ..$ type        :List of 2
+  .. .. ..$ id  : int 66
+  .. .. ..$ name: chr "Recovery"
+  .. ..$ body_part   :List of 2
+  .. .. ..$ id  : int 40
+  .. .. ..$ name: chr "Right Foot"
+ $ :List of 15
+  ..$ id             : chr "741e7535-8192-4410-ab88-d61ff05c970c"
+  ..$ index          : int 99
+  ..$ period         : int 1
+  ..$ timestamp      : chr "00:03:16.393"
+  ..$ minute         : int 3
+  ..$ second         : int 16
+  ..$ type           :List of 2
+  .. ..$ id  : int 42
+  .. ..$ name: chr "Ball Receipt*"
+  ..$ possession     : int 11
+  ..$ possession_team:List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ play_pattern   :List of 2
+  .. ..$ id  : int 6
+  .. ..$ name: chr "From Counter"
+  ..$ team           :List of 2
+  .. ..$ id  : int 746
+  .. ..$ name: chr "Manchester City WFC"
+  ..$ player         :List of 2
+  .. ..$ id  : int 4645
+  .. ..$ name: chr "Isobel Christiansen"
+  ..$ position       :List of 2
+  .. ..$ id  : int 15
+  .. ..$ name: chr "Left Center Midfield"
+  ..$ location       :List of 2
+  .. ..$ : num 30
+  .. ..$ : num 24
+  ..$ related_events :List of 1
+  .. ..$ : chr "0867f6d5-66e6-45ac-a84e-1f960efd5202"
+  [list output truncated]
